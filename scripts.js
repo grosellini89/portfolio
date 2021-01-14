@@ -15,7 +15,7 @@ document.addEventListener('scroll', ()=> {
         for(let a of li){
             a.classList.remove('text-black-50')
             a.classList.add('text-white')
-        }    }
+        }    
+    }
     
 } )
-
